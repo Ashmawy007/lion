@@ -24,6 +24,7 @@ body{
 }
 /*start container to center content over the web-------  */
 .container{
+    width:85%;
     padding-left: 10px;
     padding-right: 10px;
     margin-left: auto;
@@ -33,7 +34,7 @@ body{
 /* all screen width  */
 @media (max-width:320px) {
     .container{
-        width:100%;
+        width:80%;
     }
 }
 /* small */
